@@ -1,10 +1,10 @@
 # JsonPowerDB
 
-###### STUDENT ENROLLMENT FORM
+## STUDENT ENROLLMENT FORM
 ### This is an interactive web form which stores the details like roll no,student name,class,dob,date of enrollment and address of the student in a database in JPDB. The form has three buttons save,update and reset which are enabled and disabled when data is added or updated accordingly.
 
 
-###### JsonPowerDB is a high performance, creative and disruptive multi-mode DBMS.
+## JsonPowerDB is a high performance, creative and disruptive multi-mode DBMS.
 
 ### Some features of JsonPowerDB are:
 
